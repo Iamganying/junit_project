@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"org.example","l":"AdapterCircle"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.example","l":"Circle"},{"p":"org.example","l":"Rectangle"},{"p":"org.example","l":"Triangle"},{"p":"org.example","l":"Vertex"}];updateSearchResults();
